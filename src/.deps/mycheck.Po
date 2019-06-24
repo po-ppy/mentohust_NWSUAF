@@ -1,0 +1,43 @@
+mycheck.o: mycheck.c \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/stdc-predef.h \
+ ../config.h mycheck.h types.h myini.h \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/stdlib.h \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/features.h \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/sys/glibc-types.h \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/sys/cdefs.h \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/bits/alltypes.h \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/alloca.h \
+ md5.h \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/stdio.h \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/string.h \
+ /home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/strings.h
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/stdc-predef.h:
+
+../config.h:
+
+mycheck.h:
+
+types.h:
+
+myini.h:
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/stdlib.h:
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/features.h:
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/sys/glibc-types.h:
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/sys/cdefs.h:
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/bits/alltypes.h:
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/alloca.h:
+
+md5.h:
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/stdio.h:
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/string.h:
+
+/home/poppy/lede-sdk-17.01.4-brcm2708-bcm2708_gcc-5.4.0_musl-1.1.16_eabi.Linux-x86_64/staging_dir/toolchain-arm_arm1176jzf-s+vfp_gcc-5.4.0_musl-1.1.16_eabi/include/strings.h:
