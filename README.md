@@ -6,7 +6,7 @@
 
 使用命令：
 
-mentohust -u 学号 -p 密码 -n 网卡名 -i 0.0.0.0 -t 8 -e 1 -a 1 -d 2 -v 6.01 -f /etc/mentohust/DataPackA.mpf -w
+mentohust -u 学号 -p 密码 -n 网卡名 -i 0.0.0.0 -m 255.255.255.0 -g 0.0.0.0 -s 0.0.0.0 -t 8 -e 1 -r 15 -a 1 -d 0 -b 2 -v 6.01 -f /etc/mentohust/DataPackA.mpf -c dhclient -w 
 
 之后只用mentohust即可
 
